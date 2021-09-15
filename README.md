@@ -1,2 +1,0 @@
-# ProductCategoryMaster
-Product And Category 
